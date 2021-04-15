@@ -1,0 +1,26 @@
+
+
+
+    /* Texto del menu de navegacion  */
+.container-fluid{
+     
+    font-family: 'Segoe UI Black', 'Times New Roman', Times, serif;
+    font-size: 18px;
+  
+}
+
+  /* Organizacion de imgagenes  */
+#galeria .col-lg-6 {
+    margin: 0 !important; 
+    padding: 15px;
+}
+
+#galeria img {
+
+    width: 100%;  
+}
+
+#galeria img:hover {
+    border: 5px solid  #55FC62;
+}
+
